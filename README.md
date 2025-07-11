@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m Nguyen Huu Khoi, a Developer. I'm studying at DUT and have interests in coding and football<br>
+- 🔭 I’m Nguyen Huu Khoi, a Web Developer. I'm studying at DUT and have interests in coding and football<br>
 
 
 ## 🌐 Socials:
