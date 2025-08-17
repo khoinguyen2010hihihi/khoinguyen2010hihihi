@@ -1,5 +1,5 @@
-# 💫 About Me:
-- 🔭 I’m Nguyen Huu Khoi, a Web Developer.  
+# 💫 Hi everyone, I'm Nguyen Huu Khoi:
+- 🔭 A passionate Web Developer.  
 - 🎓 I'm studying at [Danang University of Technology](https://dut.udn.vn/)  
 - ⚽ I have interests in coding and football.
 
