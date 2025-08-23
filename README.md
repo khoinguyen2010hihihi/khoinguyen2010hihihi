@@ -1,5 +1,5 @@
 # 💫 Hi everyone:
-I'm Nguyen Huu Khoi, a passionate web developer currently studying at Danang University of Technology. I enjoy learning new technologies and building creative web projects. In my free time, I love playing and watching football. I'm always looking for opportunities to grow and improve my skills.
+ - I'm Nguyen Huu Khoi, a passionate web developer currently studying at Danang University of Technology. I enjoy learning new technologies and building creative web projects. In my free time, I love playing and watching football. I'm always looking for opportunities to grow and improve my skills.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/khoiinguyenn20102005) 
