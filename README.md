@@ -24,8 +24,8 @@
 
 # <em>Something...</em>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khoinguyen2010hihihi&theme=panda&hide_border=false&include_all_commits=false&count_private=false" height="160"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=khoinguyen2010hihihi&theme=panda&hide_border=false" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=khoinguy3ndev&theme=panda&hide_border=false&include_all_commits=false&count_private=false" height="160"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=khoinguy3ndev&theme=panda&hide_border=false" height="160"/>
 </p>
 
 <p align="center">
